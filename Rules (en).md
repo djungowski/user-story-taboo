@@ -28,7 +28,7 @@ We are doing this by writing stories for an extended version of battleship. The 
 | game producer | easy |
 
 ## Preparation
-- Print requirements (siehe [Requirements Battleship (en).md])
+- Print [requirements](https://github.com/djungowski/user-story-taboo/blob/master/Requirements%20Battleship%20(en).md)
 - Write forbidden words on flipchart or print them
 
 ## Setup

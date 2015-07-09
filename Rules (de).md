@@ -28,7 +28,7 @@ Das Ganze wird am Beispiel von Anforderungen für ein erweitertes Schiffe versen
 | Spiele Hersteller | leicht |
 
 ## Vorbereitung
-- Anforderungen ausdrucken (siehe [Requirements Battleship (de).md])
+- [Anforderungen](https://github.com/djungowski/user-story-taboo/blob/master/Requirements%20Battleship%20(de).md) ausdrucken
 - Verbotene Wörter auf ein Flipchart schreiben oder ausdrucken
 
 ## Setup
