@@ -1,5 +1,9 @@
 # User Story Tabu / User Story Taboo
 
-[Hier klicken für die deutsche Anleitung](Rules (de).md)
+## Rules
+[Deutsch](Rules (de).md)
 
-[Click here for english](Rules (de).md)
+[English](Rules (en).md)
+
+## PDF
+If you prefer pdf over markdown, you can find all the files [here](https://github.com/djungowski/user-story-taboo/tree/master/pdf-export).
