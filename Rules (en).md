@@ -63,5 +63,5 @@ Let groups select 2 user stories or epics and make them split these stories/epic
 Show and explain participants possibilities to manage the backlog. Some possibilities:
 
 - [Impact Mapping](http://www.amazon.de/Impact-Mapping-Software-Products-Projects/dp/0955683645/ref=sr_1_1?ie=UTF8&qid=1436446025&sr=8-1&keywords=impact+mapping)
-- [Relative Weight Priorisierung](http://www.prowareness.de/wp-content/uploads/2014/10/Priorisierung_im_Product_Backlog.pdf)
+- [Relative Weight Priorization](http://www.prowareness.de/wp-content/uploads/2014/10/Priorisierung_im_Product_Backlog.pdf)
 - [Agile Strategy Map](http://www.agile42.com/en/agile-transition/agile-strategy-map/)
