@@ -47,7 +47,7 @@ Let groups select 2 user stories from round 1 and make them write acceptance cri
 
 **Extended Version**: Groups don't select the stories but each group writes the acceptance criteria for all their stories from round 1.
 
-### Runde 3: Identify epics
+### Round 3: Identify epics
 Explain epics and the lifecycle of a requirement (Requirement -> Epic -> User Story -> Task, etc.). The rules from the ebook "[5 Rules for Writing Effective User Stories](http://www.amazon.de/Rules-Writing-Effective-Stories-English-ebook/dp/B00E8IRUDK/ref=sr_1_1?ie=UTF8&qid=1436445772&sr=8-1&keywords=5+rules+for+writing+effective+user+stories)" are a good basis and orientation.
 
 Let participants take a look at the written stories and make them identify epics and user stories.
