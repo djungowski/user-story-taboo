@@ -1,4 +1,4 @@
-#Battleship 2016 XXL Deluxe™
+# Battleship 2016 XXL Deluxe™
 
 ## Vision
 Schiffe versenken 2016 XXL Deluxe™ erweitert das klassische Schiffe-versenken-Prinzip um neue Funktionen wie Powerups und Erfolge, die es einzigartig machen unter der großen Menge an Umsetzungen. Powerups und nicht einfach zu erreichende Erfolge sorgen für eine Langzeitmotivation bei den Spielern.
