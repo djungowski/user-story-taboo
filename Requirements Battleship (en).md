@@ -1,4 +1,4 @@
-#Battleship 2016 XXL Deluxe™
+# Battleship 2016 XXL Deluxe™
 
 ## Vision
 Battleship 2016 XXL Deluxe™ extends the classic Battleship game with new functions like powerups and achievements making it unique among the numerous implementations out there. Powerups and challenging achievements keep the players motivated.
